@@ -1,1 +1,1 @@
-Microsoft_Mpp_Course
+Microsoft: DAT236x Deep Learning Explained
